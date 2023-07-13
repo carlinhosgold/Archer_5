@@ -1,2 +1,1 @@
-# Archer_5
-O arqueiro 5
+# Project Template 26
